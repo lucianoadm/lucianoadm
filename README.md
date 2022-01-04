@@ -4,7 +4,6 @@
 Amante ❤️ da tecnologia, depois dos 40, decidi  aprender programação, algo que sempre apreciei.
 Estudante 🤓 aplicado em Python, esse é o meu desafio! 
 
-
 <br/>
 
 ###  Frase:
