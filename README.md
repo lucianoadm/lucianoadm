@@ -25,4 +25,8 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=lucianoadm)  
 
-![Profile views](https://gpvc.arturio.dev/lucianoadm)  
+![Profile views](https://gpvc.arturio.dev/lucianoadm) 
+
+[![wakatime](https://wakatime.com/badge/user/10d19f83-8ead-4f77-a7b5-03722c09aaa4.svg)](https://wakatime.com/@10d19f83-8ead-4f77-a7b5-03722c09aaa4)
+
+
