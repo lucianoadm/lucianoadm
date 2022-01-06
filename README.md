@@ -1,12 +1,12 @@
 ### Olá! eu sou o Luciano Paiva 👋
 <br/>
-🎯 Movido a desafios,  formado em Administração, MBA em Gestão de Negócios e Marketing.
- Amante ❤️ da tecnologia, depois dos 40, decidi  aprender programação, esse é o meu desafio! 
+
+### Movido a desafios. Formado em Administração, MBA em Gestão de Negócios e Marketing.
+### Amante da tecnologia, depois dos 45, decidi  aprender programação, esse é o meu desafio! 
 
 <br/>
 
-###  Frase:
-### Reinventando-me, aprendo sempre mais! 😎
+### ***Reinventando-me, aprendo sempre mais!*** 😎
 
 <br/>
 
