@@ -21,9 +21,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoadm&layout=compact)](https://github.com/lucianoadm/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=lucianoadm) 
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lucianoadm&theme=gruvbox)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=lucianoadm)  
+
+<img src="https://img.icons8.com/fluency/50/000000/microsoft-excel-2019.png"/> <img src="https://img.icons8.com/fluency/48/000000/microsoft-powerpoint-2019.png"/> <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/fluency/48/000000/microsoft-teams-2019.png"/> <img src="https://img.icons8.com/fluency/48/000000/xbox.png"/>
 
 ![](https://komarev.com/ghpvc/?username=lucianoadm)  
 
