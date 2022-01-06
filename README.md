@@ -10,10 +10,7 @@
 
 <br/>
 
-### Redes
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/luciano-paiva)
-
+![Visitor Count](https://profile-counter.glitch.me/{lucianoadm}/count.svg)
 <br/>
 
 ![lucianoadm GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianoadm&show_icons=true&theme=merko)
