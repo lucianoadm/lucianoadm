@@ -28,4 +28,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/10d19f83-8ead-4f77-a7b5-03722c09aaa4.svg)](https://wakatime.com/@10d19f83-8ead-4f77-a7b5-03722c09aaa4)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=lucianoadm&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
 
