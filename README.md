@@ -47,7 +47,6 @@ A área jurídica será explorada de forma aplicada no horizonte de aproximadame
 
 ### ***Reinventando-me, aprendo sempre mais!*** 😎
 
-![lucianoadm GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianoadm&show_icons=true&theme=merko)
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoadm&layout=compact)](https://github.com/lucianoadm/github-readme-stats)
