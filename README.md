@@ -47,17 +47,11 @@ A área jurídica será explorada de forma aplicada no horizonte de aproximadame
 
 ### ***Reinventando-me, aprendo sempre mais!*** 😎
 
-<br/>
-
-![Visitor Count](https://profile-counter.glitch.me/{lucianoadm}/count.svg)
-<br/>
-
 ![lucianoadm GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianoadm&show_icons=true&theme=merko)
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoadm&layout=compact)](https://github.com/lucianoadm/github-readme-stats)
 
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lucianoadm&theme=gruvbox)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=lucianoadm)  
 
@@ -66,7 +60,4 @@ A área jurídica será explorada de forma aplicada no horizonte de aproximadame
 ![](https://komarev.com/ghpvc/?username=lucianoadm)  
 
 [![wakatime](https://wakatime.com/badge/user/10d19f83-8ead-4f77-a7b5-03722c09aaa4.svg)](https://wakatime.com/@10d19f83-8ead-4f77-a7b5-03722c09aaa4)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=lucianoadm&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-
 
