@@ -1,8 +1,47 @@
-### Olá! eu sou o Luciano Paiva 👋
-<br/>
+# Olá, eu sou o Luciano Paiva 👋
 
-### Movido a desafios. Formado em Administração, MBA em Gestão de Negócios e Marketing.
-### Amante da tecnologia, depois dos 45, decidi  aprender programação, esse é o meu desafio! 
+Sou formado em **Administração**, com **MBA Executivo em Negócios e Marketing** e atualmente estudante de **Direito** com **pós-graduação em Jurimetria** (em andamento).
+
+Utilizo **programação como ferramenta de raciocínio**, automação e apoio à **tomada de decisão em gestão, processos e análise de dados**.  
+Meu foco não é desenvolvimento de software tradicional, mas sim **criar soluções práticas para problemas reais**.
+
+---
+
+## 🔍 Áreas de Interesse
+- Gestão e melhoria de processos
+- Análise de dados aplicada à decisão
+- Automação de tarefas e rotinas
+- Jurimetria (em aprofundamento)
+- Soluções digitais para gestão administrativa
+
+---
+
+## 🛠️ Tecnologias
+- **Python** – lógica, automação e análise
+- **JavaScript** – scripts e soluções web
+- **HTML / CSS** – apresentação profissional de projetos
+
+---
+
+## 📂 Projetos em Destaque
+🔹 **Case Study – Otimização de Almoxarifado**  
+Análise e apresentação de uma solução prática para gestão de estoque, utilizando dados para apoiar decisões operacionais.  
+👉 [Ver projeto](https://github.com/lucianoadm/Landing_Page_portfolio)
+
+🔹 **Modelo de Portfólio Descritivo**  
+Estrutura focada em explicar o problema, a solução e o raciocínio por trás do projeto.  
+👉 [Ver projeto](https://github.com/lucianoadm/portfolio_descritivo)
+
+---
+
+## 🎯 Objetivo
+Aprofundar, no curto e médio prazo, soluções voltadas à **Administração e Gestão**, integrando programação e análise.  
+A área jurídica será explorada de forma aplicada no horizonte de aproximadamente **um ano**.
+
+---
+
+📫 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/luciano-paiva-b0b01a19b/)
+
 
 <br/>
 
