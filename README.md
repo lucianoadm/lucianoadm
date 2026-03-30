@@ -32,7 +32,7 @@ Análise e apresentação de uma solução prática para gestão de estoque, uti
 Estrutura focada em explicar o problema, a solução e o raciocínio por trás do projeto.  
 👉 [Ver projeto](https://github.com/lucianoadm/portfolio_descritivo)
 
-**Projeto leximetric**  
+🔹 **Projeto leximetric**  
 O LexiMetric é um ecossistema de aprendizado que utiliza o conceito de Repetição Espaçada.  
 👉 [Ver projeto](https://github.com/lucianoadm/LexiMetric)
 
