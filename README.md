@@ -44,8 +44,10 @@ A área jurídica será explorada de forma aplicada no horizonte de aproximadame
 
 ---
 
-📫 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/luciano-paiva-b0b01a19b/)
+📫 **Conecte-se comigo no LinkedIn**  
+👉 https://www.linkedin.com/in/luciano-paiva-b0b01a19b/
 
+---
 
 # Olá, eu sou o Luciano 👋
 > **Reinventando-me, aprendendo sempre mais!** 🚀
@@ -68,10 +70,14 @@ A área jurídica será explorada de forma aplicada no horizonte de aproximadame
 ---
 
 ## 📊 Estatísticas de Desenvolvedor
+
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucianoadm&show_icons=true&theme=transparent" />
-  <img height="160em" src="https://streak-stats.demolab.com?user=lucianoadm&theme=transparent" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoadm&layout=compact&theme=transparent" />
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=lucianoadm&show_icons=true&theme=transparent" />
+  <img height="155em" src="https://streak-stats.demolab.com?user=lucianoadm&theme=transparent" />
+</p>
+
+<p align="left">
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoadm&layout=compact&theme=transparent" />
 </p>
 
 ---
