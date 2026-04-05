@@ -53,38 +53,6 @@ A área jurídica será explorada de forma aplicada no horizonte de aproximadame
 
 <br/>
 
-# Olá, eu sou o Luciano 👋
-> **Reinventando-me, aprendendo sempre mais!** 🚀
-
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
-
----
-
-### 🛠️ Ferramentas & Tecnologias
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
-
-### 📈 Estatísticas de Desenvolvedor
-<p align="left">
-  <!-- Top Langs - Estilo Minimalista e Sem Bordas -->
-  <img height="165em" src="https://vercel.app" />
-
-  <!-- Streak - Estilo Minimalista e Sem Bordas -->
-  <img height="165em" src="https://herokuapp.com" />
-</p>
-
----
-<p align="center">
-  <img src="https://komarev.com" />
-</p>
-
 
 <img src="https://img.icons8.com/fluency/50/000000/microsoft-excel-2019.png"/> <img src="https://img.icons8.com/fluency/48/000000/microsoft-powerpoint-2019.png"/> <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/fluency/48/000000/microsoft-teams-2019.png"/> <img src="https://img.icons8.com/fluency/48/000000/xbox.png"/>
 
