@@ -53,11 +53,36 @@ A área jurídica será explorada de forma aplicada no horizonte de aproximadame
 
 <br/>
 
-### 📊 Minhas Estatísticas do GitHub
+# Olá, eu sou o Luciano 👋
+> **Reinventando-me, aprendendo sempre mais!** 🚀
 
 <p align="left">
-  <img height="180em" src="https://vercel.app" />
-  <img height="180em" src="https://herokuapp.com" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+
+---
+
+### 🛠️ Ferramentas & Tecnologias
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+
+### 📈 Estatísticas de Desenvolvedor
+<p align="left">
+  <!-- Top Langs - Estilo Minimalista e Sem Bordas -->
+  <img height="165em" src="https://vercel.app" />
+
+  <!-- Streak - Estilo Minimalista e Sem Bordas -->
+  <img height="165em" src="https://herokuapp.com" />
+</p>
+
+---
+<p align="center">
+  <img src="https://komarev.com" />
 </p>
 
 
