@@ -70,7 +70,7 @@ A área jurídica será explorada de forma aplicada no horizonte de aproximadame
 
 ## 📊 Estatísticas de Desenvolvedor
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucianoadm&layout=compact&theme=github_dark_dimmed)
+![Top Langs](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white)
 
 ---
 
