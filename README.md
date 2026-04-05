@@ -49,7 +49,6 @@ A área jurídica será explorada de forma aplicada no horizonte de aproximadame
 
 ---
 
-# Olá, eu sou o Luciano 👋
 > **Reinventando-me, aprendendo sempre mais!** 🚀
 
 <p align="left">
@@ -71,9 +70,7 @@ A área jurídica será explorada de forma aplicada no horizonte de aproximadame
 
 ## 📊 Estatísticas de Desenvolvedor
 
-<p align="left">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoadm&layout=compact&theme=transparent" />
-</p>
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucianoadm&layout=compact&theme=transparent)
 
 ---
 
@@ -90,10 +87,6 @@ A área jurídica será explorada de forma aplicada no horizonte de aproximadame
 - 📈 Otimização de processos e tomada de decisão  
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lucianoadm&color=blue" />
-</p>
 
 <img src="https://img.icons8.com/fluency/50/000000/microsoft-excel-2019.png"/> <img src="https://img.icons8.com/fluency/48/000000/microsoft-powerpoint-2019.png"/> <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/fluency/48/000000/microsoft-teams-2019.png"/> <img src="https://img.icons8.com/fluency/48/000000/xbox.png"/>
 
