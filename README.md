@@ -53,6 +53,35 @@ A área jurídica será explorada de forma aplicada no horizonte de aproximadame
 
 <br/>
 
+# Olá, eu sou o Luciano 👋
+> **Reinventando-me, aprendendo sempre mais!** 🚀
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Em%20Evolução-blue" />
+  <img src="https://img.shields.io/badge/Foco-Dados%20%26%20IA-success" />
+</p>
+
+---
+
+### 🛠️ Ferramentas & Tecnologias
+<p align="left">
+  <img src="https://img.shields.io/badge/Excel-Avançado-green" />
+  <img src="https://img.shields.io/badge/Python-Iniciante-yellow" />
+  <img src="https://img.shields.io/badge/PowerBI-Intermediário-orange" />
+  <img src="https://img.shields.io/badge/Processos-Lean%20Six%20Sigma-blue" />
+</p>
+
+### 📈 Estatísticas de Desenvolvedor
+<p align="left">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=lucianoadm&show_icons=true&theme=transparent" />
+  <img height="165em" src="https://streak-stats.demolab.com?user=lucianoadm&theme=transparent" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lucianoadm&color=blue" />
+</p>
 
 <img src="https://img.icons8.com/fluency/50/000000/microsoft-excel-2019.png"/> <img src="https://img.icons8.com/fluency/48/000000/microsoft-powerpoint-2019.png"/> <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/fluency/48/000000/microsoft-teams-2019.png"/> <img src="https://img.icons8.com/fluency/48/000000/xbox.png"/>
 
