@@ -49,11 +49,6 @@ A área jurídica será explorada de forma aplicada no horizonte de aproximadame
 
 ---
 
-📫 **Conecte-se comigo no LinkedIn**  
-👉 https://www.linkedin.com/in/luciano-paiva-b0b01a19b/
-
----
-
 # Olá, eu sou o Luciano 👋
 > **Reinventando-me, aprendendo sempre mais!** 🚀
 
