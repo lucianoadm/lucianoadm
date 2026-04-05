@@ -47,12 +47,6 @@ A área jurídica será explorada de forma aplicada no horizonte de aproximadame
 📫 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/luciano-paiva-b0b01a19b/)
 
 
-<br/>
-
-### ***Reinventando-me, aprendo sempre mais!*** 😎
-
-<br/>
-
 # Olá, eu sou o Luciano 👋
 > **Reinventando-me, aprendendo sempre mais!** 🚀
 
@@ -63,7 +57,7 @@ A área jurídica será explorada de forma aplicada no horizonte de aproximadame
 
 ---
 
-### 🛠️ Ferramentas & Tecnologias
+## 🛠️ Ferramentas & Tecnologias
 <p align="left">
   <img src="https://img.shields.io/badge/Excel-Avançado-green" />
   <img src="https://img.shields.io/badge/Python-Iniciante-yellow" />
@@ -71,11 +65,28 @@ A área jurídica será explorada de forma aplicada no horizonte de aproximadame
   <img src="https://img.shields.io/badge/Processos-Lean%20Six%20Sigma-blue" />
 </p>
 
-### 📈 Estatísticas de Desenvolvedor
+---
+
+## 📊 Estatísticas de Desenvolvedor
 <p align="left">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=lucianoadm&show_icons=true&theme=transparent" />
-  <img height="165em" src="https://streak-stats.demolab.com?user=lucianoadm&theme=transparent" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucianoadm&show_icons=true&theme=transparent" />
+  <img height="160em" src="https://streak-stats.demolab.com?user=lucianoadm&theme=transparent" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoadm&layout=compact&theme=transparent" />
 </p>
+
+---
+
+## 🚀 Projetos em Destaque
+- ⚖️ **LexInsight** → Análise de sentimento aplicada ao contexto jurídico  
+- 📊 **LexMetric** → Quiz inteligente para vocabulário jurídico e estatístico  
+- 📈 **Dashboards em Excel** → Modelagem de dados e apoio à decisão  
+
+---
+
+## 🎯 Foco Atual
+- 📊 Análise de Dados aplicada a negócios  
+- 🤖 Integração com Inteligência Artificial  
+- 📈 Otimização de processos e tomada de decisão  
 
 ---
 
