@@ -1,6 +1,6 @@
 # Olá, eu sou o Luciano Paiva 👋
 
-Sou formado em **Administração**, com **MBA Executivo em Negócios e Marketing** e atualmente estudante de **Direito** com **pós-graduação em Jurimetria** (em andamento).
+Sou formado em **Administração**, com **MBA Executivo em Negócios e Marketing** e atualmente estudante de **Direito** com **pós-graduaDO em Jurimetria - Ciência de Dados Aplicada ao Direito**.
 
 Utilizo **programação como ferramenta de raciocínio**, automação e apoio à **tomada de decisão em gestão, processos e análise de dados**.  
 Meu foco não é desenvolvimento de software tradicional, mas sim **criar soluções práticas para problemas reais**.
